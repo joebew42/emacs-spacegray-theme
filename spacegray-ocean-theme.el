@@ -1,4 +1,4 @@
-;;; spacegray-theme.el --- A Hyperminimal UI Theme
+;;; spacegray-ocean-theme.el --- A Hyperminimal UI Theme
 
 ;; Copyright (C) 2013 Bruce Williams
 
@@ -25,7 +25,7 @@
 
 ;; To use it, put the following in your Emacs configuration file:
 ;;
-;;   (load-theme 'spacegray t)
+;;   (load-theme 'spacegray-ocean t)
 ;;
 ;; Requirements: Emacs 24.
 
