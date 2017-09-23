@@ -16,6 +16,10 @@ Use `M-x customize-themes` to activate it, or put the following in your Emacs co
 
     (load-theme 'spacegray t)
 
+or you can activate the `ocean` variant:
+
+    (load-theme 'spacegray-ocean t)
+
 ## Screenshot
 
 ![Screenshot](spacegray1.png)
